@@ -9,7 +9,7 @@
    <img alt="Gustavo Ando's Git Status" src="https://github-readme-stats.vercel.app/api?username=GustavoAndo&show_icons=true&theme=gotham">
 </p>
 <p align="center">
-   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndo&layout=compact">
 </p>
 
 <h3 align="center">Tecnologias que já utilizei:</h3>
