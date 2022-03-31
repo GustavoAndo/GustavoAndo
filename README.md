@@ -10,7 +10,6 @@
 </p>
 
 <h3 align="center">Tecnologias que já utilizei:</h3>
-</br>
 <p align="center">
      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
      <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -21,7 +20,7 @@
 </p>
 </br>
 <p align="center">
-   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndo&layout=compact&theme=gotham">
+   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndo&theme=gotham">
 </p>
 
 <a href="/contato"><h3 align="center">Contato:</h3></a>
