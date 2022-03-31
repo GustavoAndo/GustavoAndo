@@ -24,10 +24,10 @@
    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndo&layout=compact&theme=gotham">
 </p>
 
-<h3 align="center">Contato:</h3>
+<a href="/contato"><h3 align="center">Contato:</h3></a>
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-ando-054414209/"><img alt="Meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a><img alt="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a><img alt="Meu Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="/contato"><img alt="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a  href="/contato"><img alt="Meu Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 </br>
