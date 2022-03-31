@@ -1,8 +1,8 @@
 ### Oi! Eu sou o Gustavo Kenji Ando! 🐜
 
 - 📌 Moro em São José dos Campos - SP
+- 🏢 Faço faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
 - 📖 Atualmente estudando Java
-- 🏢 Fazendo faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
 
 </br>
 <p align="center">
@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="center">Tecnologias que já utilizei:</h3>
+</br>
 <p align="center">
      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
      <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -18,6 +19,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
      <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
+</br>
 <p align="center">
    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAndo&layout=compact&theme=gotham">
 </p>
