@@ -2,7 +2,7 @@
 
 - 📌 Moro em São José dos Campos - SP
 - 🏢 Faço faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
-- 📖 Atualmente estudando Java
+- 📖 Atualmente estudando JavaScript
 
 </br>
 <p align="center">
