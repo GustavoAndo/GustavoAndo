@@ -1,8 +1,9 @@
-### Oi! Eu sou o Gustavo Kenji Ando! 🐝
+### Oi! Meu nome é Gustavo Kenji Ando! 🐝
 
 - 📌 Moro em São José dos Campos - SP
-- 🏢 Faço faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
-- 📖 Atualmente estudando Python
+- 🏢 Faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
+- 💼 Bolsista de Iniciação Científica no INPE
+- 📖 Atualmente estudando React Native, NodeJS e MongoDB
 
 ### Tecnologias:
 <p>
