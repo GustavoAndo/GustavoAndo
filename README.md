@@ -1,9 +1,9 @@
 ### Oi! Meu nome é Gustavo Kenji Ando! 🐝
 
 - 📌 Moro em São José dos Campos - SP
-- 🏢 Faculdade de Análise e Desenvolvimento de Sistemas na FATEC SJC
-- 💼 Bolsista de Iniciação Científica no INPE
-- 📖 Atualmente estudando React Native, NodeJS e MongoDB
+- 🏢 Graduado em Análise e Desenvolvimento de Sistemas na FATEC SJC
+- 💼 Buscando me tornar Desenvolvedor Web FullStack
+- 📖 Atualmente estudando Vue.js e C#
 
 ### Tecnologias:
 <p>
@@ -20,9 +20,11 @@
      <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px"> 
      <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px">
      <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40px"> 
-     <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40px">   
+     <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40px">    
+     <img alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40px">  
+     <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40px">  
 </p>
 
 ### Contato:
 <a href="https://www.linkedin.com/in/gustavo-ando-054414209/"><img alt="Meu Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="gustavo.k.ando@gmail.com"><img alt="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:gustavo.k.ando@gmail.com"><img alt="Meu Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
