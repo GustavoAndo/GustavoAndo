@@ -2,7 +2,7 @@
 
 - 📌 São José dos Campos - SP
 - 🏢 Graduado em Análise e Desenvolvimento de Sistemas na FATEC SJC
-- 💼 Desenvolvedor Full Stack na Sync360
+- 💼 Desenvolvedor Full Stack (Laravel e Vue.js) na Sync360
 - 📖 Atualmente estudando Laravel
 
 ### Tecnologias:
