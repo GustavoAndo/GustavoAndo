@@ -1,9 +1,9 @@
 ### Oi! Meu nome é Gustavo Kenji Ando! 🐝
 
-- 📌 Moro em São José dos Campos - SP
+- 📌 São José dos Campos - SP
 - 🏢 Graduado em Análise e Desenvolvimento de Sistemas na FATEC SJC
-- 💼 Buscando me tornar Desenvolvedor Web FullStack
-- 📖 Atualmente estudando Vue.js e C#
+- 💼 Desenvolvedor Full Stack na Sync360
+- 📖 Atualmente estudando Laravel
 
 ### Tecnologias:
 <p>
@@ -22,7 +22,8 @@
      <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40px"> 
      <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40px">    
      <img alt="Mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40px">  
-     <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40px">  
+     <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40px">
+     <img alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40px">  
 </p>
 
 ### Contato:
